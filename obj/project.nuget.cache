@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Zr4f0YMYnnTW4mPYlAsq4EDhqKqZeSmJQsntt/Ubi6a2XEId1qp5Y7j7uGyC7Tbz5WYf7faNAslOK7NsYkgpA==",
+  "success": true,
+  "projectFilePath": "/home/sam/git/school/bfup/bfup_assignment04/bfup_assignment04.fsproj",
+  "expectedPackageFiles": [
+    "/home/sam/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
