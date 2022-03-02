@@ -1,7 +1,6 @@
 module MultiSet
 
 type MultiSet<'a when 'a: comparison> = S of Map<'a, uint32>
-
 let empty = S(Map.empty)
 
 let size (S (s)) =
